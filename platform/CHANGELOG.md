@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.38](https://github.com/archestra-ai/archestra/compare/platform-v1.2.37...platform-v1.2.38) (2026-05-11)
+
+
+### Bug Fixes
+
+* add require-approval to built-in config policy subagent ([#4521](https://github.com/archestra-ai/archestra/issues/4521)) ([9942310](https://github.com/archestra-ai/archestra/commit/994231064c5487bac0b7fe1f9e6bd071c3f62fdc))
+
 ## [1.2.37](https://github.com/archestra-ai/archestra/compare/platform-v1.2.36...platform-v1.2.37) (2026-05-09)
 
 
